@@ -13,7 +13,7 @@ public class Main {
     private String ime = "Stefan";
     
     //LAZAROV KOMENTAR!!!
-    
+    //LAZAROV KOrasrMENTAR!!!
     public void ispisi(){
         System.out.println("Bleki shmeker");
     }

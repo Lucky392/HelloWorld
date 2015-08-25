@@ -12,7 +12,7 @@ package main;
 public class NovaKlasa {
 
     private int broj;
-    
+    int k = 10;
     public NovaKlasa(int i) {
         broj = i;
     }
