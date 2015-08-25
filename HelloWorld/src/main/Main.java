@@ -16,4 +16,7 @@ public class Main {
     public void ispisi(){
         System.out.println("Bleki shmeker");
     }
+
+    //Stefanov komentar
+
 }
