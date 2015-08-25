@@ -10,5 +10,9 @@ package main;
  * @author stefan
  */
 public class NovaKlasa {
+
+    public NovaKlasa() {
+    }
+    
     
 }
