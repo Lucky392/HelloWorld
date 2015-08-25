@@ -15,7 +15,7 @@ public class Main {
     //LAZAROV KOMENTAR!!!
     //LAZAROV KOrasrMENTAR!!!
     public void ispisi(){
-        System.out.println("Bleki shmeker!!!");
+        System.out.println("Bleki shmekerrrrr!!!");
     }
     
     public void blaaaa(){
