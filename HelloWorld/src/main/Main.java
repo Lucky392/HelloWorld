@@ -10,7 +10,7 @@ package main;
  * @author lazar
  */
 public class Main {
-    int ime = "Stefan";
+    private String ime = "Stefan";
     
     //LAZAROV KOMENTAR!!!
     
