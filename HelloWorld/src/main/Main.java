@@ -22,4 +22,8 @@ public class Main {
         return;
     }
 
+    public int vratiKeca(){
+        return 1;
+    }
+    
 }
