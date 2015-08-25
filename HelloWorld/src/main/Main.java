@@ -10,9 +10,10 @@ package main;
  * @author lazar
  */
 public class Main {
+    private String ime = "Stefan";
     
     //LAZAROV KOMENTAR!!!
-    // Stef
+    
     public void ispisi(){
         System.out.println("Bleki shmeker");
     }
@@ -20,5 +21,5 @@ public class Main {
     public void blaaaa(){
         return;
     }
-    
+
 }
