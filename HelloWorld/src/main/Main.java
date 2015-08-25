@@ -12,7 +12,7 @@ package main;
 public class Main {
     
     //LAZAROV KOMENTAR!!!
-    
+    // Stef
     public void ispisi(){
         System.out.println("Bleki shmeker");
     }
