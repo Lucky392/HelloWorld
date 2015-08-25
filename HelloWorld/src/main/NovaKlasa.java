@@ -11,7 +11,10 @@ package main;
  */
 public class NovaKlasa {
 
+    private int i;
+    
     public NovaKlasa() {
+        i = 0;
     }
     
     
