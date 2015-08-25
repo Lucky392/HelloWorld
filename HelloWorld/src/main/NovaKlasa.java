@@ -11,11 +11,14 @@ package main;
  */
 public class NovaKlasa {
 
-    private int i;
+    private int broj;
     
-    public NovaKlasa() {
-        i = 0;
+    public NovaKlasa(int i) {
+        broj = i;
     }
     
-    
+    public static void main(String[] args) {
+        NovaKlasa n = new NovaKlasa(50);
+        System.out.println(n.broj);
+    }
 }
