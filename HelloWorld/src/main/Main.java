@@ -14,6 +14,6 @@ public class Main {
     //LAZAROV KOMENTAR!!!
     
     public void ispisi(){
-        System.out.println("Bleki pusi kurac!!!");
+        System.out.println("Bleki shmeker");
     }
 }
