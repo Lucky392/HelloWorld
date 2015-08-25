@@ -10,10 +10,13 @@ package main;
  * @author lazar
  */
 public class Main {
+    int ime = "Stefan";
     
     //LAZAROV KOMENTAR!!!
-    // Stef
+    
     public void ispisi(){
         System.out.println("Bleki shmeker");
     }
+    
+    
 }
